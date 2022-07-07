@@ -4,7 +4,7 @@ This bot gives you the price of given token from Coingecko
 
 Coingecko API does not require any API keys
 
-Don't forget to create .env file and add BOT_TOKEN value
+Don't forget to create `.env` file in `./src` directory and add BOT_TOKEN value
 
 `docker-compose up`
 
