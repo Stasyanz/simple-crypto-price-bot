@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/Stasyanz/simple-crypto-price-bot/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Stasyanz/simple-crypto-price-bot/actions/workflows/docker-image.yml)
+
 ## Simple crypto-price bot for telegram
 
 This bot gives you the price of given token from Coingecko
